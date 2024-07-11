@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2007-2008, Advanced Micro Devices, Inc.
+ * FreeRTOS+TCP v8.8.5
  *               All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

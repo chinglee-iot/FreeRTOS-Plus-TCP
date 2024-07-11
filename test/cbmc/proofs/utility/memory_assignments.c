@@ -3,7 +3,7 @@
 #define ensure_memory_is_valid( px, length )    ( px != NULL ) && __CPROVER_w_ok( ( px ), length )
 
 /* Implementation of safe malloc which returns NULL if the requested size is 0.
- * Warning: The behavior of malloc(0) is platform dependent.
+ * FreeRTOS+TCP v8.8.5
  * It is possible for malloc(0) to return an address without allocating memory.*/
 void * safeMalloc( size_t xWantedSize )
 {

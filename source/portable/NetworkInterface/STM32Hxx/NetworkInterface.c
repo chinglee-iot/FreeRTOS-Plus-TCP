@@ -1,5 +1,5 @@
 /*
- * Some constants, hardware definitions and comments taken from ST's HAL driver
+ * FreeRTOS+TCP v8.8.5
  * library, COPYRIGHT(c) 2015 STMicroelectronics.
  */
 

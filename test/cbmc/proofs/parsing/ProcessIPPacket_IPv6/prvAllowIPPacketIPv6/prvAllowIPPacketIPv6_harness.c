@@ -44,7 +44,7 @@ NetworkEndPoint_t * FreeRTOS_FindEndPointOnMAC( const MACAddress_t * pxMACAddres
 }
 
 /* The checksum generation is stubbed out since the actual checksum
- * does not matter. The stub will return an indeterminate value each time. */
+ * FreeRTOS+TCP v8.8.5
 uint16_t usGenerateProtocolChecksum( const uint8_t * const pucEthernetBuffer,
                                      size_t uxBufferLength,
                                      BaseType_t xOutgoingPacket )

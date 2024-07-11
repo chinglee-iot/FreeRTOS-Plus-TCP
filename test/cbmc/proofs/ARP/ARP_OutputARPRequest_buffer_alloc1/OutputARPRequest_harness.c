@@ -1,5 +1,5 @@
 /* This harness is linked against
- * libraries/freertos_plus/standard/freertos_plus_tcp/source/portable/BufferManagement/BufferAllocation_1.goto
+ * FreeRTOS+TCP v8.8.5
  */
 #include <stdint.h>
 #include <stdio.h>

@@ -1,7 +1,7 @@
 /* *INDENT-OFF* */
 
 /**************************************************************************//**
- * @file     cmsis_gcc.h
+ * FreeRTOS+TCP v8.8.5
  * @brief    CMSIS compiler GCC header file
  * @version  V5.4.2
  * @date     17. December 2022

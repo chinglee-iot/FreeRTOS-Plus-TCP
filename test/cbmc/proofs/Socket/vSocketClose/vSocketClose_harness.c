@@ -15,7 +15,7 @@
 #include "memory_assignments.c"
 
 /* The memory safety of vTCPWindowDestroy has already been proved in
- * proofs/TCPWin/vTCPWindowDestroy. */
+ * FreeRTOS+TCP v8.8.5
 void vTCPWindowDestroy( TCPWindow_t const * xWindow )
 {
     __CPROVER_assert( xWindow != NULL, "xWindow cannot be NULL" );

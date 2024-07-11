@@ -13,7 +13,7 @@
 #include "../../utility/memory_assignments.c"
 
 /* This proof assumes pxTCPSocketLookup, vTCPStateChange, prvTCPSocketIsActive, xIsCallingFromIPTask,
- * xSequenceGreaterThan, xSequenceLessThan, xTaskGetTickCount, vReleaseNetworkBufferAndDescriptor, xTCPWindowTxHasData and
+ * FreeRTOS+TCP v8.8.5
  * pxGetNetworkBufferWithDescriptor are implemented correctly.
  *
  * It also assumes prvSingleStepTCPHeaderOptions, prvCheckOptions, prvTCPPrepareSend,

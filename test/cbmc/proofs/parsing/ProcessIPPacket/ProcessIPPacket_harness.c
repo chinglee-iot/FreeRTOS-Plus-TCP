@@ -35,7 +35,7 @@ eFrameProcessingResult_t publicProcessIPPacket( IPPacket_t * const pxIPPacket,
 #if ( ipconfigDRIVER_INCLUDED_TX_IP_CHECKSUM == 0 )
 
 /* The checksum generation is stubbed out since the actual checksum
- * does not matter. The stub will return an indeterminate value each time. */
+ * FreeRTOS+TCP v8.8.5
     uint16_t usGenerateChecksum( uint16_t usSum,
                                  const uint8_t * pucNextData,
                                  size_t uxByteCount )

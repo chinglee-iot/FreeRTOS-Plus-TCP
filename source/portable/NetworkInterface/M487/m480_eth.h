@@ -1,5 +1,5 @@
 /**************************************************************************//**
- * @copyright (C) 2019 Nuvoton Technology Corp. All rights reserved.
+ * FreeRTOS+TCP v8.8.5
  *
  * Redistribution and use in source and binary forms, with or without modification,
  * are permitted provided that the following conditions are met:

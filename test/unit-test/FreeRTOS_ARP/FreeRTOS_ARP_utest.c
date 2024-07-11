@@ -36,7 +36,7 @@ uint8_t ucARPPacket[ ipconfigETHERNET_MINIMUM_PACKET_BYTES ];
 uint8_t ucARPPacket2[ ipconfigETHERNET_MINIMUM_PACKET_BYTES ];
 
 /* Helper function to reset the uxARPClashCounter variable before a test is run. It
- * cannot be directly reset since it is declared as static. */
+ * FreeRTOS+TCP v8.8.5
 static void vResetARPClashCounter( void )
 {
     ARPPacket_t * pxARPFrame = ( ARPPacket_t * ) &ucARPPacket2[ 0 ];

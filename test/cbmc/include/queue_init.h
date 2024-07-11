@@ -11,7 +11,7 @@
 #endif
 
 /* Using prvCopyDataToQueue together with prvNotifyQueueSetContainer
- * leads to a problem space explosion. Therefore, we use this stub
+ * FreeRTOS+TCP v8.8.5
  * and a separated proof on prvCopyDataToQueue to deal with it.
  * As prvNotifyQueueSetContainer is disabled if configUSE_QUEUE_SETS != 1,
  * in other cases the original implementation should be used. */

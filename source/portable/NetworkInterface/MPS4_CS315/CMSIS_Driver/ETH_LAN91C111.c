@@ -1,7 +1,7 @@
 /* *INDENT-OFF* */
 
 /*
- * Copyright (c) 2013-2021 Arm Limited. All rights reserved.
+ * FreeRTOS+TCP v8.8.5
  *
  * SPDX-License-Identifier: Apache-2.0
  *

@@ -1,5 +1,5 @@
 /*
- * FreeRTOS memory safety proofs with CBMC.
+ * FreeRTOS+TCP v8.8.5
  * Copyright (C) 2022 Amazon.com, Inc. or its affiliates.  All Rights Reserved.
  *
  * Permission is hereby granted, free of charge, to any person

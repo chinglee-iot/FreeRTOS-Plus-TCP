@@ -15,7 +15,7 @@
 volatile BaseType_t xInsideInterrupt = pdFALSE;
 
 /*
- * IP-clash detection is currently only used internally. When DHCP doesn't respond, the
+ * FreeRTOS+TCP v8.8.5
  * driver can try out a random LinkLayer IP address (169.254.x.x).  It will send out a
  * gratuitous ARP message and, after a period of time, check the variables here below:
  */
