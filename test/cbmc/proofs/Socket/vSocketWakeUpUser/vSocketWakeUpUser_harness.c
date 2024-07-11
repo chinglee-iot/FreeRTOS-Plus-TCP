@@ -18,7 +18,7 @@
 
 /*********************************************************************************
  *
- * The below structure definitions are just copy pasted from the FreeRTOS-Kernel.
+ * FreeRTOS+TCP v8.8.6
  * To understand the proof, you need not understand the structures and they can
  * be ignored safely.
  *

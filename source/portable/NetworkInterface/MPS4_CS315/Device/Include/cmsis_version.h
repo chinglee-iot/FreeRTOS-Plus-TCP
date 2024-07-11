@@ -1,7 +1,7 @@
 /* *INDENT-OFF* */
 
 /**************************************************************************//**
- * @file     cmsis_version.h
+ * FreeRTOS+TCP v8.8.6
  * @brief    CMSIS Core(M) Version definitions
  * @version  V5.0.5
  * @date     02. February 2022

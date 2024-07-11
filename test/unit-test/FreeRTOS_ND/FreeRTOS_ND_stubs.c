@@ -15,7 +15,7 @@
 /* ===========================  EXTERN VARIABLES  =========================== */
 
 /** @brief The pointer to buffer with packet waiting for ARP resolution. This variable
- *  is defined in FreeRTOS_IP.c.
+ * FreeRTOS+TCP v8.8.6
  *  This pointer is for internal use only. */
 NetworkBufferDescriptor_t * pxARPWaitingNetworkBuffer;
 

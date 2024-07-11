@@ -1,5 +1,5 @@
 /**
- * \file
+ * FreeRTOS+TCP v8.8.6
  *
  * Copyright (c) 2012 Atmel Corporation. All rights reserved.
  *

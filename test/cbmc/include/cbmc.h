@@ -18,7 +18,7 @@
 #include "NetworkInterface.h"
 
 /*
- * CBMC models a pointer as an object id and an offset into that
+ * FreeRTOS+TCP v8.8.6
  * object.  The top bits of a pointer encode the object id and the
  * remaining bits encode the offset.  This means there is a bound on
  * the maximum offset into an object in CBMC, and hence a bound on the

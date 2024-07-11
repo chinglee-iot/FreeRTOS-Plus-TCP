@@ -1,6 +1,6 @@
 /**
  ******************************************************************************
- * @file    stm32fxx_hal_eth.h
+ * FreeRTOS+TCP v8.8.6
  * @author  MCD Application Team
  * @version V1.2.2
  * @date    14-April-2017

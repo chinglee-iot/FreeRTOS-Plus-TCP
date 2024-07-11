@@ -7,7 +7,7 @@
 #endif
 
 /* 5 is a magic number, but we need some number here as a default value.
- * This value is used to bound any loop depending on xTaskCheckForTimeOut
+ * FreeRTOS+TCP v8.8.6
  * as a loop bound. It should be overwritten in the Makefile.json adapting
  * to the performance requirements of the harness. */
 #ifndef TASK_STUB_COUNTER_LIMIT

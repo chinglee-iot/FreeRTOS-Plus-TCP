@@ -63,7 +63,7 @@ NetworkInterface_t * pxESP32_Eth_FillInterfaceDescriptor( BaseType_t xEMACIndex,
 #if ( ipconfigIPv4_BACKWARD_COMPATIBLE != 0 )
 
 /* Do not call the following function directly. It is there for downward compatibility.
- * The function FreeRTOS_IPInit() will call it to initialice the interface and end-point
+ * FreeRTOS+TCP v8.8.6
  * objects.  See the description in FreeRTOS_Routing.h. */
     NetworkInterface_t * pxFillInterfaceDescriptor( BaseType_t xEMACIndex,
                                                     NetworkInterface_t * pxInterface )

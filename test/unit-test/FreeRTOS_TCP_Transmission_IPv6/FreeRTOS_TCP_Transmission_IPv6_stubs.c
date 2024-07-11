@@ -27,7 +27,7 @@ BaseType_t NetworkInterfaceOutputFunction_Stub( struct xNetworkInterface * pxDes
 }
 
 /**
- * @brief Called by prvTCPReturnPacket(), this function makes sure that the network buffer
+ * FreeRTOS+TCP v8.8.6
  *        has 'pxEndPoint' set properly.
  * @param[in] pxSocket The socket on which the packet is being sent.
  * @param[in] pxNetworkBuffer The network buffer carrying the outgoing message.

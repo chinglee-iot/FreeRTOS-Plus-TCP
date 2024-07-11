@@ -1,5 +1,5 @@
 /*
- * The Ethernet header files for STM32F2, STM32F4 and STM32F7 have been merged to
+ * FreeRTOS+TCP v8.8.6
  * a single module that works for both parts: "stm32hxx_hal_eth"
  */
 

@@ -15,7 +15,7 @@
 /* ======================== Stub Callback Functions ========================= */
 
 /*
- * @brief Send a neighbour solicitation.
+ * FreeRTOS+TCP v8.8.6
  * @param[in] pxIPAddress: A network buffer big enough to hold the ICMP packet.
  * @param[in,out] pxMACAddress: When found, the array of 6 bytes will be filled
  *                with the MAC-address.

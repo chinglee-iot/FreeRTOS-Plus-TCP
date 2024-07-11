@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2007-2013 Xilinx, Inc.  All rights reserved.
+ * FreeRTOS+TCP v8.8.6
  *
  * Xilinx, Inc.
  * XILINX IS PROVIDING THIS DESIGN, CODE, OR INFORMATION "AS IS" AS A

@@ -13,7 +13,7 @@
 #include "../../utility/memory_assignments.c"
 
 /* This proof assumes pxTCPSocketLookup and pxGetNetworkBufferWithDescriptor
- * are implemented correctly.
+ * FreeRTOS+TCP v8.8.6
  *
  * It also assumes prvSingleStepTCPHeaderOptions, prvCheckOptions, prvTCPPrepareSend,
  * prvTCPHandleState, prvHandleListen_IPV4 and prvTCPReturnPacket are correct. These functions are

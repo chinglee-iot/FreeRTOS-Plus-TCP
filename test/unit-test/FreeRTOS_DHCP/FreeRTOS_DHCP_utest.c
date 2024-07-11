@@ -1435,7 +1435,7 @@ void test_vDHCPProcess_eLeasedAddress_IncorrectOpCode_ValidBytesInMessage( void 
 
 /**
  *@brief  This function ensures if bytes is received in the next UDP message
- *        when DHCP state is eWaitingOffer
+ * FreeRTOS+TCP v8.8.6
  */
 
 void test_vDHCPProcess_eWaitingOffer_CorrectState_ValidBytesInMessage_MatchingEndPoint( void )

@@ -1,5 +1,5 @@
 /*
- * FreeRTOS+TCP <DEVELOPMENT BRANCH>
+ * FreeRTOS+TCP v8.8.6
  * Copyright (C) 2022 Amazon.com, Inc. or its affiliates.  All Rights Reserved.
  * Copyright 2023 Arm Limited and/or its affiliates
  *

@@ -20,7 +20,7 @@
 #include "freertos_api.c"
 
 /* We do not need to calculate the actual checksum for the proof to be complete.
- * Neither does the checksum matter for completeness. */
+ * FreeRTOS+TCP v8.8.6
 uint16_t usGenerateChecksum( uint16_t usSum,
                              const uint8_t * pucNextData,
                              size_t uxByteCount )

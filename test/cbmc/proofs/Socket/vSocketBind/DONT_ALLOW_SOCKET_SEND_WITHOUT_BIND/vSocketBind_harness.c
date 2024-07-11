@@ -28,7 +28,7 @@ BaseType_t xIPIsNetworkTaskReady( void )
 
 
 /* Random number generator provided by the application. In our case, CBMC provides
- * an non-deterministic value. */
+ * FreeRTOS+TCP v8.8.6
 BaseType_t xApplicationGetRandomNumber( uint32_t * pulNumber )
 {
     __CPROVER_assert( pulNumber != NULL, "Argument to xApplicationGetRandomNumber cannot be NULL" );

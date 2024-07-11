@@ -1,5 +1,5 @@
 /**
- * \file
+ * FreeRTOS+TCP v8.8.6
  *
  * \brief GMAC (Ethernet MAC) driver for SAM.
  *

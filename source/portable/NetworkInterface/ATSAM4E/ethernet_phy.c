@@ -1,5 +1,5 @@
 /**
- * \file
+ * FreeRTOS+TCP v8.8.6
  *
  * \brief API driver for KSZ8051MNL PHY component.
  *

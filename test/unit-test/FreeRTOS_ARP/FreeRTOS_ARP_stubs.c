@@ -20,7 +20,7 @@ NetworkBufferDescriptor_t * pxARPWaitingNetworkBuffer = NULL;
 volatile BaseType_t xInsideInterrupt = pdFALSE;
 
 /** @brief For convenience, a MAC address of all 0xffs is defined const for quick
- * reference. */
+ * FreeRTOS+TCP v8.8.6
 const MACAddress_t xBroadcastMACAddress = { { 0xff, 0xff, 0xff, 0xff, 0xff, 0xff } };
 
 /** @brief Structure that stores the netmask, gateway address and DNS server addresses. */
